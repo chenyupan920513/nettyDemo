@@ -1,4 +1,4 @@
-package ssf.cyp.netty.example.discard;
+package ssf.cyp.netty.example.diacard;
 
 import io.netty.buffer.ByteBuf;
 
